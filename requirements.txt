@@ -1,0 +1,9 @@
+python-binance
+pandas
+ta
+requests
+certifi
+aiohttp
+streamlit
+plotly
+python-dotenv

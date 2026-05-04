@@ -1,0 +1,13 @@
+{
+    "rsiThreshold": 30,
+    "emaPeriod": 50,
+    "emaLongPeriod": 200,
+    "bbPeriod": 20,
+    "bbStd": 2,
+    "volMaPeriod": 20,
+    "macdFast": 12,
+    "macdSlow": 26,
+    "macdSignal": 9,
+    "dipPercent": 3.0,
+    "spamIntervalSec": 300
+}
